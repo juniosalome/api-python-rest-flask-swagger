@@ -15,7 +15,7 @@ sudo apt install python3.10-venv
 ```
 
 ## Para rodar o projeto
-´´´
+```
 python3 -m venv venv
 export FLASK_APP=main.py
 source venv/bin/activate
@@ -26,7 +26,7 @@ pip install flask
 pip install Werkzeug
 
 python3 main.py
-´´´
+```
 
 ## Para limpar os pycache
 
